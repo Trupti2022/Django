@@ -6,4 +6,4 @@ from django.http import HttpResponse
 # request handler
 # action
 def say_hello(request):
-    return render(request, 'hello.html',{ "name":"Trupti"})
+    return render(request, 'hello.html',{ "name":" Bishesh "})
